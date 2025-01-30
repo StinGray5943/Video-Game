@@ -28,16 +28,16 @@ The gaming industry is highly dynamic, with sales patterns influenced by platfor
 
 
 ### DATA SOURCE AND STRUCTURE
-- Source: Kaggle (via ASANICZKA)
-- File Type: CSV
-- Data Structure: Single table
-- Number of Records: 62,884
-- Number of Fields: 37
--  Date Added: 06/10/2024
+- **Source**: Kaggle (via ASANICZKA)
+- **File Type**: CSV
+- **Data Structure**: Single table
+- **Number of Records**: 62,884
+- **Number of Fields**: 37
+- **Date Added**: 06/10/2024
 
 ### TOOLS USED
-- Excel: Data cleaning, preparation, and preliminary analysis.
-- Power BI: Visualization of trends and insights.
+- **Excel**: Data cleaning, preparation, and preliminary analysis.
+- **Power BI**: Visualization of trends and insights.
 
 ###  PROCESS OF ANALYSIS
 #### 1. Data Cleaning and Preparation
@@ -75,25 +75,29 @@ GenreProportion = [GenreSales] / [ConsoleTotalSales]
 - Compared total sales by region to analyze geographical trends.
 
  ###  KEY INSIGHTS AND FINDINGS
-- Best-Selling Game: Grand Theft Auto V recorded the highest sales at 64 million copies.
-- Peak Sales Year: The highest industry-wide sales occurred in 2008, reaching 538 million copies. However, overall sales have declined in recent years.
+- **Best-Selling Game**: Grand Theft Auto V recorded the highest sales at **64 million copies**.
+- **Peak Sales Year**: The highest industry-wide sales occurred in **2008**, reaching **538 million copies**. However, overall sales have declined in recent years.
 - Regional Performance:
-   - Some games performed exceptionally well in North America but flopped in Japan, such as Sonic Advance, ChuChu Rocket, Assassin’s Creed, Dance Central, and Command & Conquer.
-   - Conversely, certain games thrived in Japan but underperformed in North America, including Dance Dance Revolution (Japan), Derby Stallion 96, and Devil Dice.
-   - Games like Doom (2016), Far Cry, and FIFA 07 performed better in the PAL region but struggled in Japan.
+   - Some games performed exceptionally well in **North America** but flopped in **Japan**, such as Sonic Advance, ChuChu Rocket, Assassin’s Creed, Dance Central, and Command & Conquer.
+   - Conversely, certain games thrived in **Japan** but underperformed in **North America**, including Dance Dance Revolution (Japan), Derby Stallion 96, and Devil Dice.
+   - Games like Doom (2016), Far Cry, and FIFA 07 performed better in the **PAL** region but struggled in **Japan**.
 - Regional Sales Distribution:
-   - North America had the highest sales: 3.35 million (56.22%).
-   - PAL region followed with 1.92 million (32.22%).
-   - Japan had the lowest sales: 0.69 million (11.56%).
+   - **North America** had the highest sales: **3.35 million (56.22%)**.
+   - **PAL** region followed with **1.92 million (32.22%)**.
+   - **Japan** had the lowest sales: **0.69 million (11.56%)**.
 - Console-Genre Specialization:
 
-   - Game Gear (GG): Specializes in Platform games.
-   - PC-FX: Specializes in Role-Playing Games (RPGs).
-   - Mac OS X: Dominates the Strategy genre.
-   - WW (WonderSwan Color): Focuses on Miscellaneous games.
-   - Mobile (MOB): Specializes in Miscellaneous games.
+   - **Game Gear (GG)**: Specializes in **Platform games**.
+   - **PC-FX**: Specializes in **Role-Playing Games (RPGs)**.
+   - **Mac OS X**: Dominates the Strategy **genre**.
+   - **WW (WonderSwan Color)**: Focuses on **Miscellaneous games**.
+   - **Mobile (MOB)**: Specializes in **Miscellaneous games**.
 
-     ###  CONCLUSION
+
+![Screenshot (22)](https://github.com/user-attachments/assets/13e50dc1-ac00-4869-8b15-67a00b7973de)
+
+
+  ###  CONCLUSION
      
 This analysis reveals valuable insights into the evolution of the gaming industry. Over the years, the industry has witnessed genre specialization by console, regional sales variations, and shifts in consumer preferences. While North America remains the dominant market, regional preferences shape the success of certain titles.
 The findings offer crucial data for game developers, publishers, and marketers looking to optimize game releases, target the right platforms, and understand global market dynamics. As the industry continues to evolve, future analyses can focus on emerging trends such as digital vs. physical game sales, the impact of subscription services, and next-generation gaming platforms.
