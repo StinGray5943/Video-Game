@@ -6,8 +6,6 @@
 - [DATA SOURCE AND STRUCTURE](#data-source-and-structure)
 - [TOOLS USED](#tools-used)
 - [PROCESS OF ANALYSIS](#process-of-analysis)
-   -[Data cleaning and preparation](#data-cleaning-and-preparation)
-    - [Specific Analysis](#specific-analysis)
 - [ KEY INSIGHTS AND FINDINGS](#key-insights-and-findings)
 - [CONCLUSION](#conclusion)
 
