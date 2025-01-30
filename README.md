@@ -1,5 +1,17 @@
 # Video-Game Analysis
 
+## Table of Content 
+- [PROJECT OVERVIEW](#project-overview)
+- [PROBLEM STATEMENT](#problem-statement)
+- [DATA SOURCE AND STRUCTURE](#data-source-and-structure)
+- [TOOLS USED](#tools-used)
+- [PROCESS OF ANALYSIS](#process-of-analysis)
+   -[Data cleaning and preparation](#data-cleaning-and-preparation)
+    - [Specific Analysis](#specific-analysis)
+- [ KEY INSIGHTS AND FINDINGS](#key-insights-and-findings)
+- [CONCLUSION](#conclusion)
+
+  
 ### PROJECT OVERVIEW
 
 The video game industry has evolved significantly over the decades, with shifts in popular genres, regional preferences, and platform dominance. This project aims to analyze global video game sales data from 1971 to 2024, covering 64,016 titles across various platforms, genres, and regions. By uncovering key trends and insights, we seek to understand the industry's trajectory and answer critical questions such as:
