@@ -32,7 +32,7 @@ The gaming industry is highly dynamic, with sales patterns influenced by platfor
 ###  PROCESS OF ANALYSIS
 #### 1. Data Cleaning and Preparation
 - Identified missing or incomplete entries in key columns (total_sales, genre, console, release_date).
-- Handled missing data by filling in feasible values or removing records with excessive gaps.
+- Handled missing data by filling in feasible values or removing records with excessive gaps. 
 - Removed duplicate entries for games with redundant records.
 - Converted data types where necessary (e.g., numeric values for sales, datetime for release dates).
 
