@@ -76,7 +76,16 @@ GenreProportion = [GenreSales] / [ConsoleTotalSales]
    - PAL region followed with 1.92 million (32.22%).
    - Japan had the lowest sales: 0.69 million (11.56%).
 - Console-Genre Specialization:
+
    - Game Gear (GG): Specializes in Platform games.
    - PC-FX: Specializes in Role-Playing Games (RPGs).
    - Mac OS X: Dominates the Strategy genre.
    - WW (WonderSwan Color): Focuses on Miscellaneous games.
+   - Mobile (MOB): Specializes in Miscellaneous games.
+
+     ###  CONCLUSION
+     
+This analysis reveals valuable insights into the evolution of the gaming industry. Over the years, the industry has witnessed genre specialization by console, regional sales variations, and shifts in consumer preferences. While North America remains the dominant market, regional preferences shape the success of certain titles.
+The findings offer crucial data for game developers, publishers, and marketers looking to optimize game releases, target the right platforms, and understand global market dynamics. As the industry continues to evolve, future analyses can focus on emerging trends such as digital vs. physical game sales, the impact of subscription services, and next-generation gaming platforms.
+
+  
